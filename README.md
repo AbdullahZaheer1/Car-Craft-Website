@@ -15,9 +15,7 @@ This is Car-Craft-Website. I am make Following Section in this Website.
 
 Watch more Website Template in my Website.
 
-**Live Demo** - https://codecraft-beta.github.io/Car-Craft-Website/
-
-**Website View** - https://designcraft.odoo.com/car-craft-website
+**Live Demo** - https://AbdullahZaheer1.github.io/Car-Craft-Website/
 
 # CodeCraft-Beta
 
@@ -43,7 +41,6 @@ Thankyou.
 
 **TikTok** - https://www.tiktok.com/@codecraft147
 
-**Website** - https://designcraft.odoo.com/
 
 # Introduction
 
